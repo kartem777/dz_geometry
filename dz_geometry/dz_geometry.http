@@ -1,0 +1,4 @@
+@dz_geometry_HostAddress = http://localhost:5070
+
+GET {{dz_geometry_HostAddress}}
+Accept: application/json
